@@ -12,10 +12,10 @@ Zip archived model file Loading helper for Three.js (>= r89dev)
 Use THREE.ZipLoader
 
 ```html
-    <script src="https://rawgit.com/mrdoob/three.js/dev/build/three.js"></script>
-    <script src="https://rawgit.com/mrdoob/three.js/dev/examples/js/loaders/GLTFLoader.js"></script>
-    <script src="https://cdn.rawgit.com/takahirox/THREE.ZipLoader/v0.0.1/build/ziploader.min.js"></script>
-    <script>
+<script src="https://rawgit.com/mrdoob/three.js/dev/build/three.js"></script>
+<script src="https://rawgit.com/mrdoob/three.js/dev/examples/js/loaders/GLTFLoader.js"></script>
+<script src="https://cdn.rawgit.com/takahirox/THREE.ZipLoader/v0.0.1/build/ziploader.min.js"></script>
+<script>
 	var url = 'models/BoomBox.zip';
 	//var url = 'models/gltf/BoomBox.gltf';
 
@@ -48,16 +48,16 @@ Use THREE.ZipLoader
 		} );
 
 	} );
-    </script>
+</script>
 ```
 
 or use THREE.ZipLoadingManager
 
 ```html
-    <script src="https://rawgit.com/mrdoob/three.js/dev/build/three.js"></script>
-    <script src="https://rawgit.com/mrdoob/three.js/dev/examples/js/loaders/GLTFLoader.js"></script>
-    <script src="https://cdn.rawgit.com/takahirox/THREE.ZipLoader/v0.0.1/build/ziploader.min.js"></script>
-    <script>
+<script src="https://rawgit.com/mrdoob/three.js/dev/build/three.js"></script>
+<script src="https://rawgit.com/mrdoob/three.js/dev/examples/js/loaders/GLTFLoader.js"></script>
+<script src="https://cdn.rawgit.com/takahirox/THREE.ZipLoader/v0.0.1/build/ziploader.min.js"></script>
+<script>
 	var url = 'models/BoomBox.zip';
 	//var url = 'models/gltf/BoomBox.gltf';
 
@@ -72,7 +72,7 @@ or use THREE.ZipLoadingManager
 		} );
 
 	} );
-    </script>
+</script>
 ```
 
 Note: API hasn't been fixed yet!
