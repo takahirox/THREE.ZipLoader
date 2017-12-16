@@ -3,7 +3,7 @@ Zip archived model file Loading helper for Three.js (>= r89dev)
 
 ## Demo
 
-[Demo with glTF 2.0 model](https://cdn.rawgit.com/takahirox/THREE.ZipLoader/v0.0.1/index.html)
+[Demo with glTF 2.0 model](https://rawgit.com/takahirox/THREE.ZipLoader/v0.0.1/index.html)
 
 ## Browser
 
